@@ -1,0 +1,11 @@
+{
+    "appswift": {
+        "continueTheming": true,
+        "shouldCommitCode": true,
+        "shouldCreateDatabaseSchema": false,
+        "scmType": "git",
+        "scmUserName": "TRIGGEREDcoder",
+        "scmPwd": "8c8bd2f51bfd311878526bda996c~~d29c0f5966bec9ce88bda0b5e8e30a08",
+        "scmUrl": "https://github.com/TRIGGEREDcoder/Encrypttestserver.git"
+    }
+}
